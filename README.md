@@ -7,7 +7,7 @@ Power BI PL-300 · DAX · Excel Expert · QGIS · Microsoft Fabric
 👉 https://sites.google.com/view/portafolio-keny-lpez/inicio
 
 ## 📄 Hoja de Vida
-👉 [Ver CV completo](URL_DE_TU_CV_EN_GITHUB)
+👉 [Ver CV completo](https://github.com/keny-lopez/data-analytics-portfolio/blob/main/KENY_ISAIAS_LOPEZ_CORRALES_CV.pdf)
 
 ## 📁 Proyectos
 
